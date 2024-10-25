@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package quest_1;
+package quest_2;
 
 /**
  *
  * @author l.silva
  */
 import java.util.Scanner;
-public class quest1 {
+public class quest2 {
 
     public static void main(String[] args) {
         Scanner s = new Scanner (System.in);
